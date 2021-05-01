@@ -1,2 +1,2 @@
-# exerciciosAlgoritmos
-Repositório com exercícios (iniciante)
+# exercícios resolvidos em C
+Iniciante
